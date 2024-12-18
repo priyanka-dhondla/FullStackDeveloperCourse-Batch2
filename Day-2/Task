@@ -1,0 +1,38 @@
+Day2: Assignment
+
+1).Create a Heading and Paragraph:
+     a.Write an HTML snippet that includes:
+
+       i). main heading (<h1>): "Welcome to My Website"
+       ii). paragraph (<p>): "This is a simple webpage created with HTML."
+       iii).Clickable Button:Create an HTML button labeled "Click Me".
+
+
+2).Use the <pre> tag to display the following text exactly as shown:
+
+Name: John Doe
+Age: 30
+Address: 123 Elm Street
+
+3).Chemical Formula:
+ a).Use <sub> and <sup> to create the following:
+
+    i).A chemical formula for water:C₆H₁₂O₆
+   ii).A mathematical expression: x² + y₂ = z²
+  iii).Horizontal Line Style:Add an <hr> tag between two formulas
+
+4).Line Breaks in Text:
+    a).Write an HTML snippet that includes a paragraph of text where each sentence appears on a new line using <br> tags. For example:
+        i).Hello, this is the first sentence.
+        ii).This is the second sentence.
+        iii).And here's the third.
+
+5).Combined Elements Example:
+Create a small HTML page that includes:
+
+A heading <h1>: "HTML Tags Practice"
+A description <p>: "This page demonstrates the use of various HTML tags."
+A styled <hr> below the heading.
+A <button> createa button element  "You clicked the button!".
+A <pre> section showing an example of HTML code.
+A sentence using <sub> and <sup> to write the formula E = mc².
