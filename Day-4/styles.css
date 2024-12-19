@@ -1,0 +1,15 @@
+body{
+    padding: 25px;
+  }
+  .title {
+      color: #5C6AC4;
+  }
+  
+  table{
+    width:300px;
+  }
+  
+  table,td,th,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
