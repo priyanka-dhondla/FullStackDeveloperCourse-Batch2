@@ -1,0 +1,15 @@
+
+.css{
+    color: #035efc;
+    text-align: center;
+  }
+  
+  #button{
+    height: 40px;
+    width:120px;
+    background-color: #039dfc;
+    color: white;
+    font-size: 17px;
+    border: none;
+    border-radius: 8px;
+  }
